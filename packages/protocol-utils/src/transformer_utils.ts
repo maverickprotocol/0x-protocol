@@ -166,6 +166,7 @@ export enum BridgeProtocol {
     KyberElastic,
     Barter,
     TraderJoeV2,
+    MaverickV1
 }
 
 /**
